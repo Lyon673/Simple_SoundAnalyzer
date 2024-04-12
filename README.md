@@ -1,5 +1,9 @@
-# Course Project Phase 2
+# Simple sound analyzer
+---
+This project is based on matlab app designer. It's main function is to record voice and show the frequency-domain signal by FFT. 
+The project is very simple, just as a try for pushing my repo.
 
+Following is a tidy introduction of the proj:
 1. Modules
    - UIAxes
      - The upper image shows time-domain signals input in last step. 
